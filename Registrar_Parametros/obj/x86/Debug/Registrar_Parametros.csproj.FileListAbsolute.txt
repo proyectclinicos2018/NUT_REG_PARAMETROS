@@ -1,0 +1,17 @@
+C:\Users\emanuel.islas\Desktop\Nutricion\Parametros\Registrar\Registrar_Parametros\bin\Debug\Registrar_Parametros.exe
+C:\Users\emanuel.islas\Desktop\Nutricion\Parametros\Registrar\Registrar_Parametros\bin\Debug\Registrar_Parametros.pdb
+C:\Users\emanuel.islas\Desktop\Nutricion\Parametros\Registrar\Registrar_Parametros\obj\x86\Debug\Registrar_Parametros.Frm_Registrar_Parametros.resources
+C:\Users\emanuel.islas\Desktop\Nutricion\Parametros\Registrar\Registrar_Parametros\obj\x86\Debug\Registrar_Parametros.Properties.Resources.resources
+C:\Users\emanuel.islas\Desktop\Nutricion\Parametros\Registrar\Registrar_Parametros\obj\x86\Debug\Registrar_Parametros.csproj.GenerateResource.Cache
+C:\Users\emanuel.islas\Desktop\Nutricion\Parametros\Registrar\Registrar_Parametros\obj\x86\Debug\Registrar_Parametros.exe
+C:\Users\emanuel.islas\Desktop\Nutricion\Parametros\Registrar\Registrar_Parametros\obj\x86\Debug\Registrar_Parametros.pdb
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Parametros\Registrar\Registrar_Parametros\obj\x86\Debug\Registrar_Parametros.exe
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Parametros\Registrar\Registrar_Parametros\obj\x86\Debug\Registrar_Parametros.pdb
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Parametros\Registrar\Registrar_Parametros\bin\Debug\Registrar_Parametros.exe
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Parametros\Registrar\Registrar_Parametros\bin\Debug\Registrar_Parametros.pdb
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Parametros\Registrar\Registrar_Parametros\obj\x86\Debug\Registrar_Parametros.Frm_Registrar_Parametros.resources
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Parametros\Registrar\Registrar_Parametros\obj\x86\Debug\Registrar_Parametros.Properties.Resources.resources
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Parametros\Registrar\Registrar_Parametros\obj\x86\Debug\Registrar_Parametros.csproj.GenerateResource.Cache
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Parametros\Registrar\Registrar_Parametros\obj\x86\Debug\Registrar_Parametros.csprojResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Escritorios\Nutricion\Escritorio\Parametros\Registrar\Registrar_Parametros\obj\x86\Debug\Registrar_Parametros.exe
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Escritorios\Nutricion\Escritorio\Parametros\Registrar\Registrar_Parametros\obj\x86\Debug\Registrar_Parametros.pdb
